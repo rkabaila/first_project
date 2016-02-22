@@ -1,0 +1,21 @@
+.fieldset {
+    border: 1px solid;
+    width: 300px;
+}
+.body{
+    background-color: lavender;
+}
+
+.input{
+    background-color: aliceblue;
+
+}
+/*
+ul#menu{
+    float: right;
+}
+ul#menu li{
+    display:inline;
+    float: left;
+}
+*/
